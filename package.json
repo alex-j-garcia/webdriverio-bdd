@@ -1,0 +1,23 @@
+{
+  "name": "webdriverio-bdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-j-garcia/webdriverio-bdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-j-garcia/webdriverio-bdd/issues"
+  },
+  "homepage": "https://github.com/alex-j-garcia/webdriverio-bdd#readme",
+  "dependencies": {
+    "webdriverio": "~7.35.0"
+  }
+}
